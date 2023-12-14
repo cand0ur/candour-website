@@ -73,12 +73,11 @@ const Footer = () => {
               ))}
             </ul>
             <div>
-              <p>Candour hello@candourprofessionalservices.com</p>
+              <p>Candour: info@candouritservices.com</p>
               <p className='max-w-[350px] mt-4 mb-6'>
-                Apartment 219, Second floor, Landmark business centre, 1-4 King
-                Akinjobi road, Victoria Island, Lagos, Nigeria
+                Trinity Place, 3 Kalabari Close, Ikoyi, Lagos, Nigeria
               </p>
-              <p>Apartment 219, 17 Jabar Skin St, London, UK</p>
+              <p>Kemp House, 152 - 160 City Road, London, London, EC1V 2NX</p>
             </div>
           </div>
         </div>
